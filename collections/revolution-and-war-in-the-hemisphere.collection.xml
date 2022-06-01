@@ -1,0 +1,37 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11313</md:content-id>
+    <md:title>Revolution and War in the Hemisphere</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>1dae526e-0fe3-4f91-98d9-1636708f5e51</md:uuid>
+<md:slug>revolution-and-war-in-the-hemisphere</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>U.S. Civil War</md:title>
+      <col:content>
+        <col:module document="m34111"/>
+        <col:module document="m38587"/>
+        <col:module document="m38438"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Caribbean and Latin American</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:module document="m38434"/>
+    <col:module document="m34621"/>
+    <col:module document="m38437"/>
+    <col:subcollection>
+      <md:title>U.S.-Mexican War</md:title>
+      <col:content/>
+    </col:subcollection>
+    <col:module document="m38436"/>
+    <col:module document="m38469"/>
+    <col:module document="m33062"/>
+    <col:module document="m39380"/>
+    <col:module document="m38574"/>
+    <col:module document="m13831"/>
+  </col:content>
+</col:collection>
